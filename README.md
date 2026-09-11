@@ -233,3 +233,6 @@ This repository serves as the official landing page for Rigs of Rods. The softwa
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Rigs of Rods today!**
+
+---
+**Last updated:** 2026-09-11 15:43:37 UTC
