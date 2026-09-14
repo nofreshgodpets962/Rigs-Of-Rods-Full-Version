@@ -235,4 +235,4 @@ This repository serves as the official landing page for Rigs of Rods. The softwa
 **Get the most recent version of Rigs of Rods today!**
 
 ---
-**Last updated:** 2026-09-14 05:40:41 UTC
+**Last updated:** 2026-09-14 11:32:58 UTC
